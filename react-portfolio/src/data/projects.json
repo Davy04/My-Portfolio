@@ -1,5 +1,13 @@
 [
   {
+    "title": "Dashboard",
+    "imageSrc": "projects/dashboard.png",
+    "description": "Dashboard feita em react para aprender sobre a ferramenta",
+    "skills": ["React", "HTML", "CSS", "JS"],
+    "demo": "https://davywoolley-dashboard.netlify.app/",
+    "source": "https://github.com/Davy04/Dashboard-React"
+  },
+  {
     "title": "Apocalipse",
     "imageSrc": "projects/apocalipse.png",
     "description": "Jogo em 3D feito na Unity em C# para praticar os conceitos basicos de GameDev.",
